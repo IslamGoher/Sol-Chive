@@ -6,3 +6,6 @@
 
 # API Documentation
 [solchive.docs.apiary.io](https://solchive.docs.apiary.io)
+
+# Database design
+[Database Schema](https://docs.google.com/document/d/137W1VC3p4FqzncFwKkrkQ_Pd_5VtCU40TAo4J2dwdu4/edit?usp=sharing)
