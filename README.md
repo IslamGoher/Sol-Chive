@@ -1,8 +1,8 @@
 # Sol-Chive
 
 # design
-![|512x397,10%](https://cdn.discordapp.com/attachments/439124635112570880/872464842898931752/Sol-Chive-1.png)
-![|512x397,10%](https://cdn.discordapp.com/attachments/439124635112570880/872464864407347210/Sol-Chive-2.png)
+![|512x397,10%](https://cdn.discordapp.com/attachments/574620616892612628/872822511904120862/unknown.png)
+[pdf here](https://cdn.discordapp.com/attachments/574620616892612628/872823172364398632/sol-chive.pdf)
 
 # API Documentation
 [solchive.docs.apiary.io](https://solchive.docs.apiary.io)
